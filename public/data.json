@@ -1,0 +1,134 @@
+[
+    {
+        "id": "1",
+        "img": "https://i.postimg.cc/j5hJtYfD/shutterstock-667978948.jpg",
+        "title": "Education for All",
+        "Ccategory": "Education",
+        "category_bg": "#3498db",
+        "card_bg": "#ecf0f1",
+        "text_button_bg": "#2c3e50",
+        "description": "Support our mission to provide quality education to underprivileged children. Your donation will help us create a brighter future by funding school supplies, educational resources, and scholarships. Together, we can empower young minds, break the cycle of poverty, and build a foundation for lifelong learning. Join us in making education accessible to every child, unlocking their potential and contributing to a more educated and equitable society. Your generous contribution ensures that no child is left behind and that education remains a powerful tool for positive change. Make a difference today!",
+        "price": 50.00
+    },
+    {
+        "id": "2",
+        "img": "https://i.postimg.cc/6pRqBNJB/images.jpg",
+        "title": "Clothing Drive",
+        "Ccategory": "Clothing",
+        "category_bg": "#e74c3c",
+        "card_bg": "#f2dede",
+        "text_button_bg": "#c0392b",
+        "description": "Help us keep families warm this winter by donating clothing items. Your contribution can make a significant difference in the lives of those facing the cold without adequate attire. Through our Clothing Drive, we aim to provide comfort and warmth to individuals and families in need. Your generous donation will be used to purchase and distribute essential clothing, ensuring that everyone in our community has access to warm clothes during the colder months. Join us in spreading warmth and compassion, and let's build a community where no one has to face the winter chill alone. Your support can bring comfort and smiles to those who need it most.",
+        "price": 30.00
+    },
+    {
+        "id": "3",
+        "img": "https://i.postimg.cc/R0SB2rvs/Untitled-design-5.png",
+        "title": "Home Renovation for Families in Need",
+        "Ccategory": "Home Improvement",
+        "category_bg": "#2ecc71",
+        "card_bg": "#d0f0c0",
+        "text_button_bg": "#27ae60",
+        "description": "Join us in providing safe and comfortable homes for families facing challenging living conditions. Your donation will contribute to our Home Renovation project, creating a positive impact on the lives of those in need. We aim to repair and upgrade homes, ensuring that families have a secure and healthy living environment. By supporting this initiative, you help us build a stronger and more resilient community. Together, we can make a lasting difference by providing the foundation for a better and safer future for families struggling with housing issues. Your generosity will create a ripple effect, fostering stability and hope within our community.",
+        "price": 40.00
+    },
+    {
+        "id": "4",
+        "img": "https://i.postimg.cc/X7KNPkwv/Getty-Images-1226354571-1200x800.jpg",
+        "title": "Healthcare Access Initiative",
+        "Ccategory": "Healthcare",
+        "category_bg": "#e67e22",
+        "card_bg": "#f5cba7",
+        "text_button_bg": "#d35400",
+        "description": "Support our efforts to ensure everyone has access to quality healthcare. Your donation can make healthcare a reality for many, improving lives and building a healthier community. Through our Healthcare Access Initiative, we aim to bridge the gap in healthcare services and provide medical assistance to those in need. Your generous contribution will be directed towards medical facilities, equipment, and essential healthcare services for underserved populations. Join us in creating a healthier and more equitable society where everyone has the opportunity to lead a fulfilling and healthy life. Your support can make a significant impact on the well-being of individuals and families in our community.",
+        "price": 20.00
+    },
+    {
+        "id": "5",
+        "img": "https://i.postimg.cc/nV4tVcMR/jose-vicente.jpg",
+        "title": "Sports Equipment for Youth",
+        "Ccategory": "Sports & Recreation",
+        "category_bg": "#1abc9c",
+        "card_bg": "#a3e4d7",
+        "text_button_bg": "#16a085",
+        "description": "Empower young minds through sports! Your donation will provide equipment and opportunities for youth to stay active and engaged in positive activities. Our Sports Equipment for Youth initiative aims to promote physical fitness, teamwork, and personal development. Your generous contribution will support the purchase of sports gear, facilities, and programs that enable children to participate in various sports activities. Join us in fostering a love for sports and recreation, contributing to the overall well-being and development of young individuals. Your support can make a lasting impact, instilling important values and skills that will benefit them throughout their lives.",
+        "price": 60.00
+    },
+    {
+        "id": "6",
+        "img": "https://i.postimg.cc/4yBLK0Dd/toys-for-tots-little-boy-child-hasbro-toys-photoshoot-2022-marine-scaled-1-0.jpg",
+        "title": "Toys for Tots",
+        "Ccategory": "Toys & Games",
+        "category_bg": "#9b59b6",
+        "card_bg": "#f0e8f9",
+        "text_button_bg": "#8e44ad",
+        "description": "Spread joy this holiday season by donating toys to children in need. Your contribution can bring smiles to little faces and create cherished memories. Through our Toys for Tots initiative, we aim to ensure that every child experiences the magic of the holiday season. Your generous donation will be used to purchase and distribute toys to children who may not otherwise have the opportunity to receive gifts. Join us in making the holidays brighter for these young hearts, and let's create a community where every child feels the warmth and joy of the festive season. Your support can make a significant difference in their lives.",
+        "price": 25.00
+    },
+    {
+        "id": "7",
+        "img": "https://i.postimg.cc/Qd5w8j8N/Library-11.jpg",
+        "title": "Library Building Project",
+        "Ccategory": "Books",
+        "category_bg": "#34495e",
+        "card_bg": "#d6dbdf",
+        "text_button_bg": "#2c3e50",
+        "description": "Help us create a space for knowledge and imagination. Support our library building project to enhance education in the community. Our Library Building Project aims to provide a dedicated space for learning, exploration, and community engagement. Your generous donation will contribute to the construction and development of a library, fostering a love for reading and education. Join us in building a hub of knowledge and creativity, where individuals of all ages can access resources, explore new worlds through books, and participate in educational programs. Your support can leave a lasting legacy, promoting literacy and lifelong learning within our community.",
+        "price": 35.00
+    },
+    {
+        "id": "8",
+        "img": "https://i.postimg.cc/2jGBtWnr/The-Wellness-Movement-8683.jpg",
+        "title": "Wellness Workshops",
+        "Ccategory": "Health & Wellness",
+        "category_bg": "#e74c3c",
+        "card_bg": "#f5c6cb",
+        "text_button_bg": "#c0392b",
+        "description": "Promote physical and mental well-being by contributing to our wellness workshops. Your donation can make a positive impact on many lives. Through our Wellness Workshops, we aim to provide resources and activities that support mental health, stress management, and overall well-being. Your generous contribution will enable us to organize workshops, seminars, and events that promote a healthy lifestyle and offer tools for coping with life's challenges. Join us in creating a community that values and prioritizes wellness, ensuring that individuals have the knowledge and support they need to lead fulfilling and balanced lives. Your support can make a meaningful difference in the health and happiness of our community.",
+        "price": 45.00
+    },
+    {
+        "id": "9",
+        "img": "https://i.postimg.cc/BQy5hDGt/shutterstock-763877011.jpg",
+        "title": "Jewelry for Hope",
+        "Ccategory": "Jewelry",
+        "category_bg": "#f39c12",
+        "card_bg": "#f9ebcd",
+        "text_button_bg": "#d4ac0d",
+        "description": "Support our cause by purchasing jewelry crafted by artisans in need. Your contribution helps create sustainable livelihoods and brings hope to communities. Our Jewelry for Hope initiative aims to empower artisans and provide them with opportunities for economic stability. Your generous donation will support the production and sale of handcrafted jewelry, creating sustainable income for talented individuals facing financial challenges. Join us in making a positive impact on the lives of these artisans and their communities. Your support can foster creativity, entrepreneurship, and a sense of hope for a brighter future.",
+        "price": 70.00
+    },
+    {
+        "id": "10",
+        "img": "https://i.postimg.cc/FH5ddx4b/images-1.jpg",
+        "title": "Vehicle for Community Outreach",
+        "Ccategory": "Community Support",
+        "category_bg": "#3498db",
+        "card_bg": "#d6eaf8",
+        "text_button_bg": "#2980b9",
+        "description": "Help us reach remote communities by contributing to our community outreach vehicle fund. Your donation can connect us to those in need. Through our Vehicle for Community Outreach initiative, we aim to expand our reach to remote and underserved areas. Your generous contribution will support the purchase and maintenance of a vehicle, allowing us to bring essential services, resources, and support to communities that may be difficult to access. Join us in building bridges and making a positive impact on the lives of those who need it most. Your support can create lasting connections and bring hope to communities facing challenges.",
+        "price": 80.00
+    },
+    {
+        "id": "11",
+        "img": "https://i.postimg.cc/26VhF8Xn/Kenya-Refugee-0.jpg",
+        "title": "Refugee Assistance",
+        "Ccategory": "Refugee Assistance",
+        "category_bg": "#3498db",
+        "card_bg": "#ecf0f1",
+        "text_button_bg": "#2c3e50",
+        "description": "Support our mission to provide quality education to underprivileged children. Your donation will help us create a brighter future by funding school supplies, educational resources, and scholarships. Together, we can empower young minds, break the cycle of poverty, and build a foundation for lifelong learning. Join us in making education accessible to every child, unlocking their potential and contributing to a more educated and equitable society. Your generous contribution ensures that no child is left behind and that education remains a powerful tool for positive change. Make a difference today!",
+        "price": 50.00
+      },
+    {
+        "id": "12",
+        "img": "https://i.postimg.cc/vBsw5cmN/images-2.jpg",
+        "title": "Food Assistance Program",
+        "Ccategory": "Food & Beverages",
+        "category_bg": "#e67e22",
+        "card_bg": "#f9e79f",
+        "text_button_bg": "#d35400",
+        "description": "Help us provide food assistance to those facing hunger. Your donation can make a significant impact on the lives of many. Through our Food Assistance Program, we aim to alleviate hunger and food insecurity in our community. Your generous contribution will support the purchase and distribution of nutritious food to individuals and families in need. Join us in creating a community where no one goes to bed hungry, and everyone has access to the basic necessity of food. Your support can make a lasting difference, providing hope and sustenance to those facing challenging circumstances.",
+        "price": 50.00
+    }
+]

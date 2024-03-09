@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.bg {
+    background: rgba(252, 252, 252, .85);
+}
+.Dbg {
+    background: rgba(15, 15, 15, 0.7);
+}
+
+#input::placeholder{
+    color: rgb(0, 0, 0);
+}
+
+.active{
+    color: #ff444a;
+    border-bottom: 3px solid #ff444a;
+    padding-bottom: 2px;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
